@@ -1,2 +1,2 @@
 # beginner-frontend-projects
-Hi! I'm a beginner learning frontend web development, and this repository contains a collection of simple projects and tasks I completed as part of my learning journey.  
+In this task, I created a simple HTML web page to practice using different basic HTML elements. The goal was to become more comfortable with how HTML works and how content is structured on a webpage.
